@@ -1,16 +1,16 @@
-🌟 Proyecto de Automatización 🌟
-Autor: Sandra Milena Peña Castellanos - QA Analyst.
-Este proyecto esta basado Arquetipo de Patron de Diseño de Playwright, se realiza automatización de dos flujos de ejecución
+### 🌟 Proyecto de Automatización 🌟
+## Autor: Sandra Milena Peña Castellanos - QA Analyst.
+#Este proyecto esta basado Arquetipo de Patron de Diseño de Playwright, se realiza automatización de dos flujos de ejecución
 basado en la página de saucedemo.
 
-🚀Prerequisitos de Intalación
+### 🚀Prerequisitos de Intalación
 - Se utiliza java Coreto 21,
 
 - Java
 
 - IntelliJIDEA
 
-📋Plugins de IntelliJIDEA
+### 📋Plugins de IntelliJIDEA
 Playwright
 Escenarios de pruebas automatizados
 Se realizan flujo de Login y flujo de compra incluyendo adiciónn a carrito de compra y checkout con finalización de orden de compra.
@@ -37,7 +37,6 @@ Instrucción de Ejecución
 <p>
 <img width="1133" height="673" alt="image" src="https://github.com/user-attachments/assets/b99e9c90-6e8b-4066-ae35-d7876d12964b" />
 </p>
-
 
 
 📊 Reporte de Ejecución
@@ -69,6 +68,7 @@ Proporcionar una estructura base que permita a candidatos o analistas QA automat
 📁 Estructura del Proyecto
 <p>
 <img width="527" height="168" alt="image" src="https://github.com/user-attachments/assets/09557833-80b5-4a9d-9f5b-7b83d5f1efce" />
+ <img width="301" height="216" alt="image" src="https://github.com/user-attachments/assets/89ab4df3-f191-444c-9b89-0ed729b0b398" />
 </p>
 
 
