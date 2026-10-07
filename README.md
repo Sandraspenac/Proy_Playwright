@@ -31,7 +31,7 @@ Se realizan flujo de Login y flujo de compra incluyendo adiciónn a carrito de c
 <img width="1144" height="677" alt="image" src="https://github.com/user-attachments/assets/b557adab-70f5-4456-a24a-48a8e9823e78" />
 </p>
 
-### Instrucción de Ejecución
+### ✅ Instrucción de Ejecución
 ## ✅ Evidencia de compra exitosa
 
 <p>
@@ -43,7 +43,7 @@ Se realizan flujo de Login y flujo de compra incluyendo adiciónn a carrito de c
 Se visualiza el reporte de ejecución:
 
 
-Escenarios Automatizados
+📋Escenarios Automatizados
 <p>
 image
 </p>
@@ -53,7 +53,7 @@ image
 image
  </p>
  
-### 🚀 Arquetipo Base de Automatización con plugin Playwright
+### 💡 Arquetipo Base de Automatización con plugin Playwright
 ## 📋 Descripción
 Este proyecto es un arquetipo base de automatización diseñado para que analistas QA puedan automatizar pruebas web de manera eficiente y escalable. Utiliza Serenity BDD con Cucumber y el patrón Screenplay para crear pruebas mantenibles y legibles.
 
