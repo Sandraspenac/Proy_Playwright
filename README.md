@@ -1,7 +1,6 @@
-### 🌟 Proyecto de Automatización 🌟
+### 🌟 Proyecto Automatización en Playwright 🌟
 ## Autor: Sandra Milena Peña Castellanos - QA Analyst.
-#Este proyecto esta basado Arquetipo de Patron de Diseño de Playwright, se realiza automatización de dos flujos de ejecución
-basado en la página de saucedemo.
+#Este proyecto está basado en un arquetipo de automatización utilizando el patrón de diseño de Playwright. Se implementan dos flujos automatizados inspirados en los procesos de negocio de la aplicación SauceDemo, permitiendo validar funcionalidades clave mediante pruebas end-to-end.
 
 ### 🚀Prerequisitos de Intalación
 - Se utiliza java Coreto 21,
@@ -43,13 +42,18 @@ Se visualiza el reporte de ejecución:
  
 ### 💡 Arquetipo Base de Automatización con plugin Playwright
 ## 📋 Descripción
-Este proyecto es un arquetipo base de automatización diseñado para que analistas QA puedan automatizar pruebas web de manera eficiente y escalable. Utiliza Serenity BDD con Cucumber y el patrón Screenplay para crear pruebas mantenibles y legibles.
+Este proyecto corresponde a un arquetipo base de automatización diseñado para que los analistas QA puedan desarrollar pruebas automatizadas web de forma eficiente, escalable y mantenible.
+ 
+La solución está construida utilizando Playwright, permitiendo una adecuada organización del código, reutilización de componentes y una mayor facilidad de mantenimiento.
+ 
+El proyecto incluye escenarios end-to-end (E2E) orientados a validar funcionalidades críticas de negocio, siguiendo buenas prácticas de automatización y asegurando la calidad de las aplicaciones web.
 
 ## 🎯 Objetivo
-Proporcionar una estructura base que permita a candidatos o analistas QA automatizar cualquier aplicación web siguiendo las mejores prácticas de la industria.
+El objetivo es garantizar la correcta validación de los escenarios críticos mediante pruebas automatizadas End-to-End (E2E), promoviendo la reutilización del código, mantenibilidad y escalabilidad del proyecto.
 
 ## 🛠️ Stack Tecnológico
-- Se utiliza java Coreto 21,
+## Se utilizo:
+- java Coreto 21,
 
 - Java
 
