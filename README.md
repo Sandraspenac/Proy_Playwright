@@ -1,6 +1,6 @@
 ### 🌟 Proyecto Automatización en Playwright 🌟
 ## Autor: Sandra Milena Peña Castellanos - QA Analyst.
-#Este proyecto está basado en un arquetipo de automatización utilizando el patrón de diseño de Playwright. Se implementan dos flujos automatizados inspirados en los procesos de negocio de la aplicación SauceDemo, permitiendo validar funcionalidades clave mediante pruebas end-to-end.
+## Este proyecto está basado en un arquetipo de automatización utilizando el patrón de diseño de Playwright. Se implementan dos flujos automatizados inspirados en los procesos de negocio de la aplicación SauceDemo, permitiendo validar funcionalidades clave mediante pruebas end-to-end.
 
 ### 🚀Prerequisitos de Intalación
 - Se utiliza java Coreto 21,
