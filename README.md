@@ -1,5 +1,26 @@
 ### 🌟 Proyecto Automatización en Playwright 🌟
 ## Autor: Sandra Milena Peña Castellanos - QA Analyst.
+
+### 💡 Arquetipo Base de Automatización con plugin Playwright
+## 📋 Descripción
+Este proyecto corresponde a un arquetipo base de automatización diseñado para que los analistas QA puedan desarrollar pruebas automatizadas web de forma eficiente, escalable y mantenible.
+ 
+La solución está construida utilizando Playwright, permitiendo una adecuada organización del código, reutilización de componentes y una mayor facilidad de mantenimiento.
+ 
+El proyecto incluye escenarios end-to-end (E2E) orientados a validar funcionalidades críticas de negocio, siguiendo buenas prácticas de automatización y asegurando la calidad de las aplicaciones web.
+
+## 🎯 Objetivo
+El objetivo es garantizar la correcta validación de los escenarios críticos mediante pruebas automatizadas End-to-End (E2E), promoviendo la reutilización del código, mantenibilidad y escalabilidad del proyecto.
+
+## 🛠️ Stack Tecnológico
+## Se utilizo:
+- java Coreto 21,
+
+- Java
+
+- IntelliJIDEA
+
+
 Este proyecto está basado en un arquetipo de automatización utilizando el patrón de diseño de Playwright. Se implementan dos flujos automatizados inspirados en los procesos de negocio de la aplicación SauceDemo, permitiendo validar funcionalidades clave mediante pruebas end-to-end.
 
 ### 🚀Prerequisitos de Intalación
@@ -40,24 +61,6 @@ Se realizan flujo de Login y flujo de compra incluyendo adiciónn a carrito de c
 📊 Reporte de Ejecución
 Se visualiza el reporte de ejecución:
  
-### 💡 Arquetipo Base de Automatización con plugin Playwright
-## 📋 Descripción
-Este proyecto corresponde a un arquetipo base de automatización diseñado para que los analistas QA puedan desarrollar pruebas automatizadas web de forma eficiente, escalable y mantenible.
- 
-La solución está construida utilizando Playwright, permitiendo una adecuada organización del código, reutilización de componentes y una mayor facilidad de mantenimiento.
- 
-El proyecto incluye escenarios end-to-end (E2E) orientados a validar funcionalidades críticas de negocio, siguiendo buenas prácticas de automatización y asegurando la calidad de las aplicaciones web.
-
-## 🎯 Objetivo
-El objetivo es garantizar la correcta validación de los escenarios críticos mediante pruebas automatizadas End-to-End (E2E), promoviendo la reutilización del código, mantenibilidad y escalabilidad del proyecto.
-
-## 🛠️ Stack Tecnológico
-## Se utilizo:
-- java Coreto 21,
-
-- Java
-
-- IntelliJIDEA
 
 ### 📁 Estructura del Proyecto
 <p>
