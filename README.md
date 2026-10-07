@@ -31,27 +31,15 @@ Se realizan flujo de Login y flujo de compra incluyendo adiciónn a carrito de c
 <img width="1144" height="677" alt="image" src="https://github.com/user-attachments/assets/b557adab-70f5-4456-a24a-48a8e9823e78" />
 </p>
 
-### ✅ Instrucción de Ejecución
+## ✅ Instrucción de Ejecución
 ## ✅ Evidencia de compra exitosa
 
 <p>
 <img width="1133" height="673" alt="image" src="https://github.com/user-attachments/assets/b99e9c90-6e8b-4066-ae35-d7876d12964b" />
 </p>
 
-
 📊 Reporte de Ejecución
 Se visualiza el reporte de ejecución:
-
-
-📋Escenarios Automatizados
-<p>
-image
-</p>
-
-
-<p>
-image
- </p>
  
 ### 💡 Arquetipo Base de Automatización con plugin Playwright
 ## 📋 Descripción
@@ -67,7 +55,7 @@ Proporcionar una estructura base que permita a candidatos o analistas QA automat
 
 - IntelliJIDEA
 
-## 📁 Estructura del Proyecto
+### 📁 Estructura del Proyecto
 <p>
 <img width="527" height="168" alt="image" src="https://github.com/user-attachments/assets/09557833-80b5-4a9d-9f5b-7b83d5f1efce" />
  </p>
