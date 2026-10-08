@@ -1,6 +1,11 @@
 ### 🌟 Proyecto Automatización en Playwright 🌟
 ## Autor: Sandra Milena Peña Castellanos - QA Analyst.
 
+<p>
+<img width="629" height="346" alt="image" src="https://github.com/user-attachments/assets/e2e8d1ff-7e26-46df-bebc-c90af2987baf" />
+</p>
+
+
 ### 💡 Arquetipo Base de Automatización con plugin Playwright
 ## 📋 Descripción
 Este proyecto corresponde a un arquetipo base de automatización diseñado para que los analistas QA puedan desarrollar pruebas automatizadas web de forma eficiente, escalable y mantenible.
