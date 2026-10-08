@@ -2,7 +2,7 @@
 ## Autor: Sandra Milena Peña Castellanos - QA Analyst.
 
 <p>
-<img width="928" height="474" alt="image" src="https://github.com/user-attachments/assets/7aeab4b7-7628-4ffa-884b-e7b9b94be2e1" />
+<img width="1262" height="606" alt="image" src="https://github.com/user-attachments/assets/4d61d649-6d49-4294-a75e-44a8177e2d61" />
 </p>
 
 
